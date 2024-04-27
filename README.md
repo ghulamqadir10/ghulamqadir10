@@ -1,3 +1,9 @@
+![](https://komarev.com/ghpvc/?username=your-github-Ghulam-Qadir&color=blue)
+
+
+
+
+
 - 👋 Hi, I’m @ghulamqadir10
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning ...web development
